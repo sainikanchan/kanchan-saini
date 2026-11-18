@@ -1,6 +1,6 @@
 # Portfolio — a hand-drawn window on the web
 
-A multi-page portfolio website built with **Next.js 16 (App Router) + TypeScript + Tailwind CSS v4**, modelled on the design system of [garimapahwa.xyz](https://garimapahwa.xyz/) — warm paper background (`#f5f5f3` light / `#121212` dark), Helvetica Neue, uppercase meta labels, a hero with per-character pop-in animation, a board of hand-drawn "window" doodle cards with a hover veil that types the card's label, a sticky minimal nav with a dashed scroll-progress bar, a half-orb theme toggle, scroll reveals, and a dashed footer with a beating `<3`.
+A multi-page portfolio website built with **Next.js 16 (App Router) + TypeScript + Tailwind CSS v4**, featuring a warm paper background (`#f5f5f3` light / `#121212` dark), Helvetica Neue, uppercase meta labels, a hero with per-character pop-in animation, a board of hand-drawn "window" doodle cards with a hover veil that types the card's label, a sticky minimal nav with a dashed scroll-progress bar, a half-orb theme toggle, scroll reveals, and a dashed footer with a beating `<3`.
 
 ## Getting started
 
